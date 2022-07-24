@@ -1,1 +1,1 @@
-# node_review
+This is a self-reviewing project relevant to node.js.
